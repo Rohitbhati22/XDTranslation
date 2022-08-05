@@ -10,3 +10,5 @@ This python application will translate images of a webpage from 4 languages (Kor
 3. Hindi
 4. Chinese
 
+## UI OF App
+
