@@ -11,4 +11,7 @@ This python application will translate images of a webpage from 4 languages (Kor
 4. Chinese
 
 ## UI OF App
-
+![ScreenShot Homepage](https://github.com/Rohitbhati22/XDTranslation/blob/master/img/app1.PNG?raw=true)
+![ScreenShot URL Popup](https://github.com/Rohitbhati22/XDTranslation/blob/master/img/app2.PNG?raw=true)
+![ScreenShot Loading Popup](https://github.com/Rohitbhati22/XDTranslation/blob/master/img/app3.PNG?raw=true)
+![ScreenShot Save File Popup](https://github.com/Rohitbhati22/XDTranslation/blob/master/img/app4.PNG?raw=true)
