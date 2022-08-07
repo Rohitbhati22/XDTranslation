@@ -46,7 +46,7 @@ pip install googletrans
 ```
 pip install pytesseract
 ```
-3. First Download the all files form here or clone it.
+3. Now Download the all files form here or you can just clone it with git.
 4. Now Download This Zip File From [Here](https://drive.google.com/file/d/1m6CoL52ur1uhAzYhskM60QCuackl4RQj/view?usp=sharing), because it required to run the python file correctly.
 5. Now excrete that zip file as the same folder of this code and after that, your folder will look like this
  ![ScreenShot of folder](https://github.com/Rohitbhati22/XDTranslation/blob/master/img/app5.PNG?raw=true)
