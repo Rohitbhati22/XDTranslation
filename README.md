@@ -20,7 +20,7 @@ This python application will translate images of a webpage from 4 languages (Kor
 
 #### How To Use
 First Install all prerequirement one by one here
-1. Install Python From [Here](https://www.python.org/downloads/), if you dont have it onn your pc.
+1. Install Python From [Here](https://www.python.org/downloads/), if you dont have it on your pc.
 2. Run this command in your CMD, One By One
 ```
 pip install kivy
